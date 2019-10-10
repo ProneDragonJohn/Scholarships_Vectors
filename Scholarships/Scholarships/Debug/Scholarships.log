@@ -1,0 +1,6 @@
+﻿  scholarships.cpp
+c:\users\john\documents\visual studio 2015\projects\scholarships\scholarships\scholarships.cpp(271): warning C4018: '<': signed/unsigned mismatch
+  scholarshipClassDefined.cpp
+  Generating Code...
+  Scholarships.vcxproj -> C:\Users\John\Documents\Visual Studio 2015\Projects\Scholarships\Debug\Scholarships.exe
+  Scholarships.vcxproj -> C:\Users\John\Documents\Visual Studio 2015\Projects\Scholarships\Debug\Scholarships.pdb (Full PDB)
